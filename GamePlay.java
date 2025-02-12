@@ -96,3 +96,8 @@ public class GamePlay extends JPanel implements KeyListener, ActionListener{
         play = true;
         playerX -=20;
     }
+
+    
+    
+
+}
